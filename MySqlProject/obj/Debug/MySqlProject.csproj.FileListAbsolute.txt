@@ -1,0 +1,17 @@
+E:\Sourav\Desktop\C# lab\MySqlProject\MySqlProject\bin\Debug\MySqlProject.exe.config
+E:\Sourav\Desktop\C# lab\MySqlProject\MySqlProject\bin\Debug\MySqlProject.exe
+E:\Sourav\Desktop\C# lab\MySqlProject\MySqlProject\bin\Debug\MySqlProject.pdb
+E:\Sourav\Desktop\C# lab\MySqlProject\MySqlProject\bin\Debug\MySql.Data.dll
+E:\Sourav\Desktop\C# lab\MySqlProject\MySqlProject\bin\Debug\Google.Protobuf.dll
+E:\Sourav\Desktop\C# lab\MySqlProject\MySqlProject\bin\Debug\BouncyCastle.Crypto.dll
+E:\Sourav\Desktop\C# lab\MySqlProject\MySqlProject\bin\Debug\Ubiety.Dns.Core.dll
+E:\Sourav\Desktop\C# lab\MySqlProject\MySqlProject\bin\Debug\Renci.SshNet.dll
+E:\Sourav\Desktop\C# lab\MySqlProject\MySqlProject\bin\Debug\MySql.Data.xml
+E:\Sourav\Desktop\C# lab\MySqlProject\MySqlProject\obj\Debug\MySqlProject.csprojAssemblyReference.cache
+E:\Sourav\Desktop\C# lab\MySqlProject\MySqlProject\obj\Debug\MySqlProject.Properties.Resources.resources
+E:\Sourav\Desktop\C# lab\MySqlProject\MySqlProject\obj\Debug\MySqlProject.csproj.GenerateResource.cache
+E:\Sourav\Desktop\C# lab\MySqlProject\MySqlProject\obj\Debug\MySqlProject.csproj.CopyComplete
+E:\Sourav\Desktop\C# lab\MySqlProject\MySqlProject\obj\Debug\MySqlProject.exe
+E:\Sourav\Desktop\C# lab\MySqlProject\MySqlProject\obj\Debug\MySqlProject.pdb
+E:\Sourav\Desktop\C# lab\MySqlProject\MySqlProject\obj\Debug\MySqlProject.LibraryManagement.resources
+E:\Sourav\Desktop\C# lab\MySqlProject\MySqlProject\obj\Debug\MySqlProject.csproj.CoreCompileInputs.cache
